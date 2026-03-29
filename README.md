@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 AI-ML Developer | Full Stack Developer | Student at SRM-AP 
 
