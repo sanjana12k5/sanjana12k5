@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi, I'm **Sanjana Kondragunta**  
-🎓 Student at **SRM University – AP**  
-💻 AI/ML Developer | Full Stack Developer  
+Student at **SRM University – AP**  
+AI/ML Developer | Full Stack Developer  
 
 ---
 
@@ -11,9 +11,9 @@ Hi, I'm **Sanjana Kondragunta**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -23,7 +23,7 @@ Hi, I'm **Sanjana Kondragunta**
 
 ---
 
-### 🌐 Frameworks
+### Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
@@ -38,7 +38,7 @@ Hi, I'm **Sanjana Kondragunta**
 
 ---
 
-### ☁️ Cloud & Deployment
+### Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
