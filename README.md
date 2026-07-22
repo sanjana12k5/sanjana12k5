@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjana Kondragunta</h1>
+<h1 align="center">Hi , I'm Sanjana Kondragunta</h1>
 
 <p align="center">
 <b>AI/ML Engineer • Full Stack Developer • Data Analyst</b>
@@ -8,24 +8,6 @@
 Building intelligent software with Machine Learning, Large Language Models, Data Analytics, and Cloud Technologies.
 </p>
 
-
----
-
-# About Me
-
-🎓 B.Tech Computer Science Student at **SRM University – AP**
-
-💡 I enjoy building products that combine:
-
-- Artificial Intelligence
-- Machine Learning
-- Full Stack Development
-- Data Analytics
-- Cloud Computing
-
-Currently focused on developing scalable AI applications powered by LLMs and modern software engineering practices.
-
----
 
 # 🛠 Tech Stack
 
